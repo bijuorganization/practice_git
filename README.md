@@ -1,1 +1,1 @@
-Repository contains all the exaple
+Repository contains all the example
