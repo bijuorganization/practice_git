@@ -1,1 +1,1 @@
-# practice_git
+Repository contains all the exaple
