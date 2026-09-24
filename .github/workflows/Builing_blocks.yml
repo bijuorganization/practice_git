@@ -14,6 +14,6 @@ jobs :
             - name: I'm failed
               run: |
                 echo "This step is failed" 
-                exit 1
+                exit 0
             - name: Say goodbye
               run: echo "goodbye world"
